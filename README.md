@@ -1,4 +1,6 @@
-# GitHub API + Scala
+# Tentacle-Scala
+
+> GitHub API + Scala
 
 ## Setup and Run
 
