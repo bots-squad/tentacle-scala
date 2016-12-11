@@ -2,6 +2,8 @@
 
 > GitHub API + Scala
 
+> initial work: https://github.com/github/platform-samples/tree/master/api/scala.with.sbt/octocat-samples
+
 ## Setup and Run
 
 - This is a `sbt` project. See http://www.scala-sbt.org/0.13/docs/Setup.html
